@@ -34,6 +34,8 @@ function Grid(){
          textSize(50);
          fill(155,155,0);
          text("GAME OVER",50,100);
+         //textSize(17);
+         //text("Bhai checkup karwa apna galat level vella hai tu",10,250);
        }
     }
 
